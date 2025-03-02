@@ -1,0 +1,1 @@
+This folder contains all the input images with their keypoints and the kepoints being connected across different images.
