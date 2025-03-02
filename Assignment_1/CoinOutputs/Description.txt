@@ -1,0 +1,1 @@
+This folder (CoinOutputs) contains the output images for the coin problem (Part-1) of the VR assignment-1.
