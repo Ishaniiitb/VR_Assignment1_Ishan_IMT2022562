@@ -1,0 +1,1 @@
+This folder contains the first set of input images for the second question (panorama creation) of assignment-1 of VR.
